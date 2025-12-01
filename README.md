@@ -6,3 +6,7 @@ pip install flask
 pip install joblib
 
 run python server.py
+
+
+
+Group project Alloys Sylvince worked on this
